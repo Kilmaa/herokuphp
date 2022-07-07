@@ -1,9 +1,9 @@
 <html lang="en">
 <head>
-    <title>Hello World!</title>
+    <title></title>
 </head>
 <body>
-  
+Hello World!
 </body>
 </html>
 
